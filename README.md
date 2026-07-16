@@ -118,7 +118,7 @@ git clone https://github.com/farhann198/predicting-employee-attrition.git
 
 cd predicting-employee-attrition
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ---
